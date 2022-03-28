@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch firma2",
+            "request": "launch",
+            "mainClass": "firma2",
+            "projectName": "Java_a3a5d21a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch firma",
+            "request": "launch",
+            "mainClass": "firma.firma"
+        }
+    ]
+}
